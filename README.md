@@ -33,6 +33,7 @@ Associated License is MIT
 
 ### Demo Video Location
 https://drive.google.com/file/d/1NDNuFhD2oTySuS9lO94TGgPTQOCniD96/view?usp=sharing
+Postman was used due to Insomnia not working correctly.
 
 ### Repository
 Repository location is https://github.com/AeroRider66/12challenge
