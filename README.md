@@ -31,6 +31,8 @@ Associated License is MIT
 
 ## Repository and Deployment Site
 
+### Demo Video Location
+https://drive.google.com/file/d/1NDNuFhD2oTySuS9lO94TGgPTQOCniD96/view?usp=sharing
 
 ### Repository
 Repository location is https://github.com/AeroRider66/12challenge
