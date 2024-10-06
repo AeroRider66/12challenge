@@ -1,4 +1,4 @@
-# Challenge 10 SQL: Employee Tracker
+# Challenge 12 SQL: Employee Tracker
 
 This application is designed to allow management of a company access to view and change employee related data.
 
