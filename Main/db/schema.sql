@@ -18,6 +18,7 @@ CREATE TABLE role (
 
 CREATE TABLE employees (
     id SERIAL PRIMARY KEY,
+    first_name VARCHAR(255) MOT NULL,
     last_name VARCHAR(225) NOT NULL,
     role_id INT,
     FOREIGN KEY (role_id)
